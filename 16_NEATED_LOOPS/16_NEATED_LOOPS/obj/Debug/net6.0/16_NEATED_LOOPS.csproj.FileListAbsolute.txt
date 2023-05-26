@@ -1,0 +1,15 @@
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\bin\Debug\net6.0\16_NEATED_LOOPS.exe
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\bin\Debug\net6.0\16_NEATED_LOOPS.deps.json
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\bin\Debug\net6.0\16_NEATED_LOOPS.runtimeconfig.json
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\bin\Debug\net6.0\16_NEATED_LOOPS.dll
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\bin\Debug\net6.0\16_NEATED_LOOPS.pdb
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\obj\Debug\net6.0\16_NEATED_LOOPS.csproj.AssemblyReference.cache
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\obj\Debug\net6.0\16_NEATED_LOOPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\obj\Debug\net6.0\16_NEATED_LOOPS.AssemblyInfoInputs.cache
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\obj\Debug\net6.0\16_NEATED_LOOPS.AssemblyInfo.cs
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\obj\Debug\net6.0\16_NEATED_LOOPS.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\obj\Debug\net6.0\16_NEATED_LOOPS.dll
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\obj\Debug\net6.0\refint\16_NEATED_LOOPS.dll
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\obj\Debug\net6.0\16_NEATED_LOOPS.pdb
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\obj\Debug\net6.0\16_NEATED_LOOPS.genruntimeconfig.cache
+D:\C# 101 Codes\16_NEATED_LOOPS\16_NEATED_LOOPS\obj\Debug\net6.0\ref\16_NEATED_LOOPS.dll

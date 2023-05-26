@@ -1,0 +1,15 @@
+D:\C# 101 Codes\1_Outputs\1_Outputs\bin\Debug\net6.0\1_Outputs.exe
+D:\C# 101 Codes\1_Outputs\1_Outputs\bin\Debug\net6.0\1_Outputs.deps.json
+D:\C# 101 Codes\1_Outputs\1_Outputs\bin\Debug\net6.0\1_Outputs.runtimeconfig.json
+D:\C# 101 Codes\1_Outputs\1_Outputs\bin\Debug\net6.0\1_Outputs.dll
+D:\C# 101 Codes\1_Outputs\1_Outputs\bin\Debug\net6.0\1_Outputs.pdb
+D:\C# 101 Codes\1_Outputs\1_Outputs\obj\Debug\net6.0\1_Outputs.csproj.AssemblyReference.cache
+D:\C# 101 Codes\1_Outputs\1_Outputs\obj\Debug\net6.0\1_Outputs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\1_Outputs\1_Outputs\obj\Debug\net6.0\1_Outputs.AssemblyInfoInputs.cache
+D:\C# 101 Codes\1_Outputs\1_Outputs\obj\Debug\net6.0\1_Outputs.AssemblyInfo.cs
+D:\C# 101 Codes\1_Outputs\1_Outputs\obj\Debug\net6.0\1_Outputs.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\1_Outputs\1_Outputs\obj\Debug\net6.0\1_Outputs.dll
+D:\C# 101 Codes\1_Outputs\1_Outputs\obj\Debug\net6.0\refint\1_Outputs.dll
+D:\C# 101 Codes\1_Outputs\1_Outputs\obj\Debug\net6.0\1_Outputs.pdb
+D:\C# 101 Codes\1_Outputs\1_Outputs\obj\Debug\net6.0\1_Outputs.genruntimeconfig.cache
+D:\C# 101 Codes\1_Outputs\1_Outputs\obj\Debug\net6.0\ref\1_Outputs.dll

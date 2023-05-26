@@ -1,0 +1,15 @@
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\bin\Debug\net6.0\18_Rock_Paper_Scissors.exe
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\bin\Debug\net6.0\18_Rock_Paper_Scissors.deps.json
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\bin\Debug\net6.0\18_Rock_Paper_Scissors.runtimeconfig.json
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\bin\Debug\net6.0\18_Rock_Paper_Scissors.dll
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\bin\Debug\net6.0\18_Rock_Paper_Scissors.pdb
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\obj\Debug\net6.0\18_Rock_Paper_Scissors.csproj.AssemblyReference.cache
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\obj\Debug\net6.0\18_Rock_Paper_Scissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\obj\Debug\net6.0\18_Rock_Paper_Scissors.AssemblyInfoInputs.cache
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\obj\Debug\net6.0\18_Rock_Paper_Scissors.AssemblyInfo.cs
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\obj\Debug\net6.0\18_Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\obj\Debug\net6.0\18_Rock_Paper_Scissors.dll
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\obj\Debug\net6.0\refint\18_Rock_Paper_Scissors.dll
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\obj\Debug\net6.0\18_Rock_Paper_Scissors.pdb
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\obj\Debug\net6.0\18_Rock_Paper_Scissors.genruntimeconfig.cache
+D:\C# 101 Codes\18_Rock_Paper_Scissors\18_Rock_Paper_Scissors\obj\Debug\net6.0\ref\18_Rock_Paper_Scissors.dll

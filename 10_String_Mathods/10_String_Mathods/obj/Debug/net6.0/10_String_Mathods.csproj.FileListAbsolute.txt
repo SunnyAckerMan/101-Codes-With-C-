@@ -1,0 +1,15 @@
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\bin\Debug\net6.0\10_String_Mathods.exe
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\bin\Debug\net6.0\10_String_Mathods.deps.json
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\bin\Debug\net6.0\10_String_Mathods.runtimeconfig.json
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\bin\Debug\net6.0\10_String_Mathods.dll
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\bin\Debug\net6.0\10_String_Mathods.pdb
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\obj\Debug\net6.0\10_String_Mathods.csproj.AssemblyReference.cache
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\obj\Debug\net6.0\10_String_Mathods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\obj\Debug\net6.0\10_String_Mathods.AssemblyInfoInputs.cache
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\obj\Debug\net6.0\10_String_Mathods.AssemblyInfo.cs
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\obj\Debug\net6.0\10_String_Mathods.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\obj\Debug\net6.0\10_String_Mathods.dll
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\obj\Debug\net6.0\refint\10_String_Mathods.dll
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\obj\Debug\net6.0\10_String_Mathods.pdb
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\obj\Debug\net6.0\10_String_Mathods.genruntimeconfig.cache
+D:\C# 101 Codes\10_String_Mathods\10_String_Mathods\obj\Debug\net6.0\ref\10_String_Mathods.dll

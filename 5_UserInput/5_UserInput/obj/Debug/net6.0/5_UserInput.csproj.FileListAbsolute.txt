@@ -1,0 +1,15 @@
+D:\C# 101 Codes\5_UserInput\5_UserInput\obj\Debug\net6.0\5_UserInput.csproj.AssemblyReference.cache
+D:\C# 101 Codes\5_UserInput\5_UserInput\obj\Debug\net6.0\5_UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\5_UserInput\5_UserInput\obj\Debug\net6.0\5_UserInput.AssemblyInfoInputs.cache
+D:\C# 101 Codes\5_UserInput\5_UserInput\obj\Debug\net6.0\5_UserInput.AssemblyInfo.cs
+D:\C# 101 Codes\5_UserInput\5_UserInput\obj\Debug\net6.0\5_UserInput.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\5_UserInput\5_UserInput\bin\Debug\net6.0\5_UserInput.exe
+D:\C# 101 Codes\5_UserInput\5_UserInput\bin\Debug\net6.0\5_UserInput.deps.json
+D:\C# 101 Codes\5_UserInput\5_UserInput\bin\Debug\net6.0\5_UserInput.runtimeconfig.json
+D:\C# 101 Codes\5_UserInput\5_UserInput\bin\Debug\net6.0\5_UserInput.dll
+D:\C# 101 Codes\5_UserInput\5_UserInput\bin\Debug\net6.0\5_UserInput.pdb
+D:\C# 101 Codes\5_UserInput\5_UserInput\obj\Debug\net6.0\5_UserInput.dll
+D:\C# 101 Codes\5_UserInput\5_UserInput\obj\Debug\net6.0\refint\5_UserInput.dll
+D:\C# 101 Codes\5_UserInput\5_UserInput\obj\Debug\net6.0\5_UserInput.pdb
+D:\C# 101 Codes\5_UserInput\5_UserInput\obj\Debug\net6.0\5_UserInput.genruntimeconfig.cache
+D:\C# 101 Codes\5_UserInput\5_UserInput\obj\Debug\net6.0\ref\5_UserInput.dll

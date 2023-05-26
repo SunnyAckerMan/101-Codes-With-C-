@@ -1,0 +1,15 @@
+D:\C# 101 Codes\48_Generic\48_Generic\bin\Debug\net6.0\48_Generic.exe
+D:\C# 101 Codes\48_Generic\48_Generic\bin\Debug\net6.0\48_Generic.deps.json
+D:\C# 101 Codes\48_Generic\48_Generic\bin\Debug\net6.0\48_Generic.runtimeconfig.json
+D:\C# 101 Codes\48_Generic\48_Generic\bin\Debug\net6.0\48_Generic.dll
+D:\C# 101 Codes\48_Generic\48_Generic\bin\Debug\net6.0\48_Generic.pdb
+D:\C# 101 Codes\48_Generic\48_Generic\obj\Debug\net6.0\48_Generic.csproj.AssemblyReference.cache
+D:\C# 101 Codes\48_Generic\48_Generic\obj\Debug\net6.0\48_Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\48_Generic\48_Generic\obj\Debug\net6.0\48_Generic.AssemblyInfoInputs.cache
+D:\C# 101 Codes\48_Generic\48_Generic\obj\Debug\net6.0\48_Generic.AssemblyInfo.cs
+D:\C# 101 Codes\48_Generic\48_Generic\obj\Debug\net6.0\48_Generic.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\48_Generic\48_Generic\obj\Debug\net6.0\48_Generic.dll
+D:\C# 101 Codes\48_Generic\48_Generic\obj\Debug\net6.0\refint\48_Generic.dll
+D:\C# 101 Codes\48_Generic\48_Generic\obj\Debug\net6.0\48_Generic.pdb
+D:\C# 101 Codes\48_Generic\48_Generic\obj\Debug\net6.0\48_Generic.genruntimeconfig.cache
+D:\C# 101 Codes\48_Generic\48_Generic\obj\Debug\net6.0\ref\48_Generic.dll

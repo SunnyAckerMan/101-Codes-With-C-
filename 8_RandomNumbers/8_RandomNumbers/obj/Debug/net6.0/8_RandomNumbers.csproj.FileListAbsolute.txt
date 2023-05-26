@@ -1,0 +1,15 @@
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\bin\Debug\net6.0\8_RandomNumbers.exe
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\bin\Debug\net6.0\8_RandomNumbers.deps.json
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\bin\Debug\net6.0\8_RandomNumbers.runtimeconfig.json
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\bin\Debug\net6.0\8_RandomNumbers.dll
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\bin\Debug\net6.0\8_RandomNumbers.pdb
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\obj\Debug\net6.0\8_RandomNumbers.csproj.AssemblyReference.cache
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\obj\Debug\net6.0\8_RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\obj\Debug\net6.0\8_RandomNumbers.AssemblyInfoInputs.cache
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\obj\Debug\net6.0\8_RandomNumbers.AssemblyInfo.cs
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\obj\Debug\net6.0\8_RandomNumbers.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\obj\Debug\net6.0\8_RandomNumbers.dll
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\obj\Debug\net6.0\refint\8_RandomNumbers.dll
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\obj\Debug\net6.0\8_RandomNumbers.pdb
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\obj\Debug\net6.0\8_RandomNumbers.genruntimeconfig.cache
+D:\C# 101 Codes\8_RandomNumbers\8_RandomNumbers\obj\Debug\net6.0\ref\8_RandomNumbers.dll

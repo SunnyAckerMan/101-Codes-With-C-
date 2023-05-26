@@ -1,0 +1,15 @@
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\bin\Debug\net6.0\42_Interfaces.exe
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\bin\Debug\net6.0\42_Interfaces.deps.json
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\bin\Debug\net6.0\42_Interfaces.runtimeconfig.json
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\bin\Debug\net6.0\42_Interfaces.dll
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\bin\Debug\net6.0\42_Interfaces.pdb
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\obj\Debug\net6.0\42_Interfaces.csproj.AssemblyReference.cache
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\obj\Debug\net6.0\42_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\obj\Debug\net6.0\42_Interfaces.AssemblyInfoInputs.cache
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\obj\Debug\net6.0\42_Interfaces.AssemblyInfo.cs
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\obj\Debug\net6.0\42_Interfaces.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\obj\Debug\net6.0\42_Interfaces.dll
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\obj\Debug\net6.0\refint\42_Interfaces.dll
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\obj\Debug\net6.0\42_Interfaces.pdb
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\obj\Debug\net6.0\42_Interfaces.genruntimeconfig.cache
+D:\C# 101 Codes\42_Interfaces\42_Interfaces\obj\Debug\net6.0\ref\42_Interfaces.dll

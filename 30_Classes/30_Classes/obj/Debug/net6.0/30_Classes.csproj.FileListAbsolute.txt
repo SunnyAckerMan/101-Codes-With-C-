@@ -1,0 +1,15 @@
+D:\C# 101 Codes\30_Classes\30_Classes\bin\Debug\net6.0\30_Classes.exe
+D:\C# 101 Codes\30_Classes\30_Classes\bin\Debug\net6.0\30_Classes.deps.json
+D:\C# 101 Codes\30_Classes\30_Classes\bin\Debug\net6.0\30_Classes.runtimeconfig.json
+D:\C# 101 Codes\30_Classes\30_Classes\bin\Debug\net6.0\30_Classes.dll
+D:\C# 101 Codes\30_Classes\30_Classes\bin\Debug\net6.0\30_Classes.pdb
+D:\C# 101 Codes\30_Classes\30_Classes\obj\Debug\net6.0\30_Classes.csproj.AssemblyReference.cache
+D:\C# 101 Codes\30_Classes\30_Classes\obj\Debug\net6.0\30_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\30_Classes\30_Classes\obj\Debug\net6.0\30_Classes.AssemblyInfoInputs.cache
+D:\C# 101 Codes\30_Classes\30_Classes\obj\Debug\net6.0\30_Classes.AssemblyInfo.cs
+D:\C# 101 Codes\30_Classes\30_Classes\obj\Debug\net6.0\30_Classes.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\30_Classes\30_Classes\obj\Debug\net6.0\30_Classes.dll
+D:\C# 101 Codes\30_Classes\30_Classes\obj\Debug\net6.0\refint\30_Classes.dll
+D:\C# 101 Codes\30_Classes\30_Classes\obj\Debug\net6.0\30_Classes.pdb
+D:\C# 101 Codes\30_Classes\30_Classes\obj\Debug\net6.0\30_Classes.genruntimeconfig.cache
+D:\C# 101 Codes\30_Classes\30_Classes\obj\Debug\net6.0\ref\30_Classes.dll

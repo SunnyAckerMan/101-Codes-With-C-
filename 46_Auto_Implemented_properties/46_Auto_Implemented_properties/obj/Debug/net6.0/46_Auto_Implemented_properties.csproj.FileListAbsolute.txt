@@ -1,0 +1,15 @@
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\bin\Debug\net6.0\46_Auto_Implemented_properties.exe
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\bin\Debug\net6.0\46_Auto_Implemented_properties.deps.json
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\bin\Debug\net6.0\46_Auto_Implemented_properties.runtimeconfig.json
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\bin\Debug\net6.0\46_Auto_Implemented_properties.dll
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\bin\Debug\net6.0\46_Auto_Implemented_properties.pdb
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\obj\Debug\net6.0\46_Auto_Implemented_properties.csproj.AssemblyReference.cache
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\obj\Debug\net6.0\46_Auto_Implemented_properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\obj\Debug\net6.0\46_Auto_Implemented_properties.AssemblyInfoInputs.cache
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\obj\Debug\net6.0\46_Auto_Implemented_properties.AssemblyInfo.cs
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\obj\Debug\net6.0\46_Auto_Implemented_properties.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\obj\Debug\net6.0\46_Auto_Implemented_properties.dll
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\obj\Debug\net6.0\refint\46_Auto_Implemented_properties.dll
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\obj\Debug\net6.0\46_Auto_Implemented_properties.pdb
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\obj\Debug\net6.0\46_Auto_Implemented_properties.genruntimeconfig.cache
+D:\C# 101 Codes\46_Auto_Implemented_properties\46_Auto_Implemented_properties\obj\Debug\net6.0\ref\46_Auto_Implemented_properties.dll

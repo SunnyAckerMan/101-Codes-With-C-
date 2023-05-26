@@ -1,0 +1,15 @@
+D:\C# 101 Codes\43_Lists\43_Lists\bin\Debug\net6.0\43_Lists.exe
+D:\C# 101 Codes\43_Lists\43_Lists\bin\Debug\net6.0\43_Lists.deps.json
+D:\C# 101 Codes\43_Lists\43_Lists\bin\Debug\net6.0\43_Lists.runtimeconfig.json
+D:\C# 101 Codes\43_Lists\43_Lists\bin\Debug\net6.0\43_Lists.dll
+D:\C# 101 Codes\43_Lists\43_Lists\bin\Debug\net6.0\43_Lists.pdb
+D:\C# 101 Codes\43_Lists\43_Lists\obj\Debug\net6.0\43_Lists.csproj.AssemblyReference.cache
+D:\C# 101 Codes\43_Lists\43_Lists\obj\Debug\net6.0\43_Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\43_Lists\43_Lists\obj\Debug\net6.0\43_Lists.AssemblyInfoInputs.cache
+D:\C# 101 Codes\43_Lists\43_Lists\obj\Debug\net6.0\43_Lists.AssemblyInfo.cs
+D:\C# 101 Codes\43_Lists\43_Lists\obj\Debug\net6.0\43_Lists.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\43_Lists\43_Lists\obj\Debug\net6.0\43_Lists.dll
+D:\C# 101 Codes\43_Lists\43_Lists\obj\Debug\net6.0\refint\43_Lists.dll
+D:\C# 101 Codes\43_Lists\43_Lists\obj\Debug\net6.0\43_Lists.pdb
+D:\C# 101 Codes\43_Lists\43_Lists\obj\Debug\net6.0\43_Lists.genruntimeconfig.cache
+D:\C# 101 Codes\43_Lists\43_Lists\obj\Debug\net6.0\ref\43_Lists.dll

@@ -1,0 +1,15 @@
+D:\C# 101 Codes\22_Method\22_Method\bin\Debug\net6.0\22_Method.exe
+D:\C# 101 Codes\22_Method\22_Method\bin\Debug\net6.0\22_Method.deps.json
+D:\C# 101 Codes\22_Method\22_Method\bin\Debug\net6.0\22_Method.runtimeconfig.json
+D:\C# 101 Codes\22_Method\22_Method\bin\Debug\net6.0\22_Method.dll
+D:\C# 101 Codes\22_Method\22_Method\bin\Debug\net6.0\22_Method.pdb
+D:\C# 101 Codes\22_Method\22_Method\obj\Debug\net6.0\22_Method.csproj.AssemblyReference.cache
+D:\C# 101 Codes\22_Method\22_Method\obj\Debug\net6.0\22_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\22_Method\22_Method\obj\Debug\net6.0\22_Method.AssemblyInfoInputs.cache
+D:\C# 101 Codes\22_Method\22_Method\obj\Debug\net6.0\22_Method.AssemblyInfo.cs
+D:\C# 101 Codes\22_Method\22_Method\obj\Debug\net6.0\22_Method.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\22_Method\22_Method\obj\Debug\net6.0\22_Method.dll
+D:\C# 101 Codes\22_Method\22_Method\obj\Debug\net6.0\refint\22_Method.dll
+D:\C# 101 Codes\22_Method\22_Method\obj\Debug\net6.0\22_Method.pdb
+D:\C# 101 Codes\22_Method\22_Method\obj\Debug\net6.0\22_Method.genruntimeconfig.cache
+D:\C# 101 Codes\22_Method\22_Method\obj\Debug\net6.0\ref\22_Method.dll

@@ -1,0 +1,15 @@
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\bin\Debug\net6.0\45_getters_setters.exe
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\bin\Debug\net6.0\45_getters_setters.deps.json
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\bin\Debug\net6.0\45_getters_setters.runtimeconfig.json
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\bin\Debug\net6.0\45_getters_setters.dll
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\bin\Debug\net6.0\45_getters_setters.pdb
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\obj\Debug\net6.0\45_getters_setters.csproj.AssemblyReference.cache
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\obj\Debug\net6.0\45_getters_setters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\obj\Debug\net6.0\45_getters_setters.AssemblyInfoInputs.cache
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\obj\Debug\net6.0\45_getters_setters.AssemblyInfo.cs
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\obj\Debug\net6.0\45_getters_setters.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\obj\Debug\net6.0\45_getters_setters.dll
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\obj\Debug\net6.0\refint\45_getters_setters.dll
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\obj\Debug\net6.0\45_getters_setters.pdb
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\obj\Debug\net6.0\45_getters_setters.genruntimeconfig.cache
+D:\C# 101 Codes\45_getters_setters\45_getters_setters\obj\Debug\net6.0\ref\45_getters_setters.dll

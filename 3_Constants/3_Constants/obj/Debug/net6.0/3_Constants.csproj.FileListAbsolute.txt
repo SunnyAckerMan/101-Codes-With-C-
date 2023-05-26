@@ -1,0 +1,15 @@
+D:\C# 101 Codes\3_Constants\3_Constants\bin\Debug\net6.0\3_Constants.exe
+D:\C# 101 Codes\3_Constants\3_Constants\bin\Debug\net6.0\3_Constants.deps.json
+D:\C# 101 Codes\3_Constants\3_Constants\bin\Debug\net6.0\3_Constants.runtimeconfig.json
+D:\C# 101 Codes\3_Constants\3_Constants\bin\Debug\net6.0\3_Constants.dll
+D:\C# 101 Codes\3_Constants\3_Constants\bin\Debug\net6.0\3_Constants.pdb
+D:\C# 101 Codes\3_Constants\3_Constants\obj\Debug\net6.0\3_Constants.csproj.AssemblyReference.cache
+D:\C# 101 Codes\3_Constants\3_Constants\obj\Debug\net6.0\3_Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\3_Constants\3_Constants\obj\Debug\net6.0\3_Constants.AssemblyInfoInputs.cache
+D:\C# 101 Codes\3_Constants\3_Constants\obj\Debug\net6.0\3_Constants.AssemblyInfo.cs
+D:\C# 101 Codes\3_Constants\3_Constants\obj\Debug\net6.0\3_Constants.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\3_Constants\3_Constants\obj\Debug\net6.0\3_Constants.dll
+D:\C# 101 Codes\3_Constants\3_Constants\obj\Debug\net6.0\refint\3_Constants.dll
+D:\C# 101 Codes\3_Constants\3_Constants\obj\Debug\net6.0\3_Constants.pdb
+D:\C# 101 Codes\3_Constants\3_Constants\obj\Debug\net6.0\3_Constants.genruntimeconfig.cache
+D:\C# 101 Codes\3_Constants\3_Constants\obj\Debug\net6.0\ref\3_Constants.dll

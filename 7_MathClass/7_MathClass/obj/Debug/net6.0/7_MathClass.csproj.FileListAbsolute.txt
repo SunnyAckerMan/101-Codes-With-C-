@@ -1,0 +1,15 @@
+D:\C# 101 Codes\7_MathClass\7_MathClass\bin\Debug\net6.0\7_MathClass.exe
+D:\C# 101 Codes\7_MathClass\7_MathClass\bin\Debug\net6.0\7_MathClass.deps.json
+D:\C# 101 Codes\7_MathClass\7_MathClass\bin\Debug\net6.0\7_MathClass.runtimeconfig.json
+D:\C# 101 Codes\7_MathClass\7_MathClass\bin\Debug\net6.0\7_MathClass.dll
+D:\C# 101 Codes\7_MathClass\7_MathClass\bin\Debug\net6.0\7_MathClass.pdb
+D:\C# 101 Codes\7_MathClass\7_MathClass\obj\Debug\net6.0\7_MathClass.csproj.AssemblyReference.cache
+D:\C# 101 Codes\7_MathClass\7_MathClass\obj\Debug\net6.0\7_MathClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\7_MathClass\7_MathClass\obj\Debug\net6.0\7_MathClass.AssemblyInfoInputs.cache
+D:\C# 101 Codes\7_MathClass\7_MathClass\obj\Debug\net6.0\7_MathClass.AssemblyInfo.cs
+D:\C# 101 Codes\7_MathClass\7_MathClass\obj\Debug\net6.0\7_MathClass.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\7_MathClass\7_MathClass\obj\Debug\net6.0\7_MathClass.dll
+D:\C# 101 Codes\7_MathClass\7_MathClass\obj\Debug\net6.0\refint\7_MathClass.dll
+D:\C# 101 Codes\7_MathClass\7_MathClass\obj\Debug\net6.0\7_MathClass.pdb
+D:\C# 101 Codes\7_MathClass\7_MathClass\obj\Debug\net6.0\7_MathClass.genruntimeconfig.cache
+D:\C# 101 Codes\7_MathClass\7_MathClass\obj\Debug\net6.0\ref\7_MathClass.dll

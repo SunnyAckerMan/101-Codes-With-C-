@@ -1,0 +1,15 @@
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\bin\Debug\net6.0\12_SwitchCase.exe
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\bin\Debug\net6.0\12_SwitchCase.deps.json
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\bin\Debug\net6.0\12_SwitchCase.runtimeconfig.json
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\bin\Debug\net6.0\12_SwitchCase.dll
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\bin\Debug\net6.0\12_SwitchCase.pdb
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\obj\Debug\net6.0\12_SwitchCase.csproj.AssemblyReference.cache
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\obj\Debug\net6.0\12_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\obj\Debug\net6.0\12_SwitchCase.AssemblyInfoInputs.cache
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\obj\Debug\net6.0\12_SwitchCase.AssemblyInfo.cs
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\obj\Debug\net6.0\12_SwitchCase.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\obj\Debug\net6.0\12_SwitchCase.dll
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\obj\Debug\net6.0\refint\12_SwitchCase.dll
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\obj\Debug\net6.0\12_SwitchCase.pdb
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\obj\Debug\net6.0\12_SwitchCase.genruntimeconfig.cache
+D:\C# 101 Codes\12_SwitchCase\12_SwitchCase\obj\Debug\net6.0\ref\12_SwitchCase.dll

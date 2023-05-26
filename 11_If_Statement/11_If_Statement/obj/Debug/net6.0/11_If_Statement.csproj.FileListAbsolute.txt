@@ -1,0 +1,15 @@
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\bin\Debug\net6.0\11_If_Statement.exe
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\bin\Debug\net6.0\11_If_Statement.deps.json
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\bin\Debug\net6.0\11_If_Statement.runtimeconfig.json
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\bin\Debug\net6.0\11_If_Statement.dll
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\bin\Debug\net6.0\11_If_Statement.pdb
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\obj\Debug\net6.0\11_If_Statement.csproj.AssemblyReference.cache
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\obj\Debug\net6.0\11_If_Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\obj\Debug\net6.0\11_If_Statement.AssemblyInfoInputs.cache
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\obj\Debug\net6.0\11_If_Statement.AssemblyInfo.cs
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\obj\Debug\net6.0\11_If_Statement.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\obj\Debug\net6.0\11_If_Statement.dll
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\obj\Debug\net6.0\refint\11_If_Statement.dll
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\obj\Debug\net6.0\11_If_Statement.pdb
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\obj\Debug\net6.0\11_If_Statement.genruntimeconfig.cache
+D:\C# 101 Codes\11_If_Statement\11_If_Statement\obj\Debug\net6.0\ref\11_If_Statement.dll

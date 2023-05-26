@@ -1,0 +1,15 @@
+D:\C# 101 Codes\26_exception\26_exception\bin\Debug\net6.0\26_exception.exe
+D:\C# 101 Codes\26_exception\26_exception\bin\Debug\net6.0\26_exception.deps.json
+D:\C# 101 Codes\26_exception\26_exception\bin\Debug\net6.0\26_exception.runtimeconfig.json
+D:\C# 101 Codes\26_exception\26_exception\bin\Debug\net6.0\26_exception.dll
+D:\C# 101 Codes\26_exception\26_exception\bin\Debug\net6.0\26_exception.pdb
+D:\C# 101 Codes\26_exception\26_exception\obj\Debug\net6.0\26_exception.csproj.AssemblyReference.cache
+D:\C# 101 Codes\26_exception\26_exception\obj\Debug\net6.0\26_exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\26_exception\26_exception\obj\Debug\net6.0\26_exception.AssemblyInfoInputs.cache
+D:\C# 101 Codes\26_exception\26_exception\obj\Debug\net6.0\26_exception.AssemblyInfo.cs
+D:\C# 101 Codes\26_exception\26_exception\obj\Debug\net6.0\26_exception.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\26_exception\26_exception\obj\Debug\net6.0\26_exception.dll
+D:\C# 101 Codes\26_exception\26_exception\obj\Debug\net6.0\refint\26_exception.dll
+D:\C# 101 Codes\26_exception\26_exception\obj\Debug\net6.0\26_exception.pdb
+D:\C# 101 Codes\26_exception\26_exception\obj\Debug\net6.0\26_exception.genruntimeconfig.cache
+D:\C# 101 Codes\26_exception\26_exception\obj\Debug\net6.0\ref\26_exception.dll

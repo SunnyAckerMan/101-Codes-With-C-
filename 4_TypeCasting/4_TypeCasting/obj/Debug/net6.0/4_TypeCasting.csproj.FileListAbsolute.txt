@@ -1,0 +1,15 @@
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\bin\Debug\net6.0\4_TypeCasting.exe
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\bin\Debug\net6.0\4_TypeCasting.deps.json
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\bin\Debug\net6.0\4_TypeCasting.runtimeconfig.json
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\bin\Debug\net6.0\4_TypeCasting.dll
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\bin\Debug\net6.0\4_TypeCasting.pdb
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\obj\Debug\net6.0\4_TypeCasting.csproj.AssemblyReference.cache
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\obj\Debug\net6.0\4_TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\obj\Debug\net6.0\4_TypeCasting.AssemblyInfoInputs.cache
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\obj\Debug\net6.0\4_TypeCasting.AssemblyInfo.cs
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\obj\Debug\net6.0\4_TypeCasting.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\obj\Debug\net6.0\4_TypeCasting.dll
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\obj\Debug\net6.0\refint\4_TypeCasting.dll
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\obj\Debug\net6.0\4_TypeCasting.pdb
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\obj\Debug\net6.0\4_TypeCasting.genruntimeconfig.cache
+D:\C# 101 Codes\4_TypeCasting\4_TypeCasting\obj\Debug\net6.0\ref\4_TypeCasting.dll

@@ -1,0 +1,15 @@
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\bin\Debug\net6.0\29_MultiDimentional_Arrays.exe
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\bin\Debug\net6.0\29_MultiDimentional_Arrays.deps.json
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\bin\Debug\net6.0\29_MultiDimentional_Arrays.runtimeconfig.json
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\bin\Debug\net6.0\29_MultiDimentional_Arrays.dll
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\bin\Debug\net6.0\29_MultiDimentional_Arrays.pdb
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\obj\Debug\net6.0\29_MultiDimentional_Arrays.csproj.AssemblyReference.cache
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\obj\Debug\net6.0\29_MultiDimentional_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\obj\Debug\net6.0\29_MultiDimentional_Arrays.AssemblyInfoInputs.cache
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\obj\Debug\net6.0\29_MultiDimentional_Arrays.AssemblyInfo.cs
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\obj\Debug\net6.0\29_MultiDimentional_Arrays.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\obj\Debug\net6.0\29_MultiDimentional_Arrays.dll
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\obj\Debug\net6.0\refint\29_MultiDimentional_Arrays.dll
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\obj\Debug\net6.0\29_MultiDimentional_Arrays.pdb
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\obj\Debug\net6.0\29_MultiDimentional_Arrays.genruntimeconfig.cache
+D:\C# 101 Codes\29_MultiDimentional_Arrays\29_MultiDimentional_Arrays\obj\Debug\net6.0\ref\29_MultiDimentional_Arrays.dll

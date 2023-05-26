@@ -1,0 +1,15 @@
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\bin\Debug\net6.0\9_Hypotenuse_Calcluator.exe
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\bin\Debug\net6.0\9_Hypotenuse_Calcluator.deps.json
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\bin\Debug\net6.0\9_Hypotenuse_Calcluator.runtimeconfig.json
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\bin\Debug\net6.0\9_Hypotenuse_Calcluator.dll
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\bin\Debug\net6.0\9_Hypotenuse_Calcluator.pdb
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\obj\Debug\net6.0\9_Hypotenuse_Calcluator.csproj.AssemblyReference.cache
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\obj\Debug\net6.0\9_Hypotenuse_Calcluator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\obj\Debug\net6.0\9_Hypotenuse_Calcluator.AssemblyInfoInputs.cache
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\obj\Debug\net6.0\9_Hypotenuse_Calcluator.AssemblyInfo.cs
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\obj\Debug\net6.0\9_Hypotenuse_Calcluator.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\obj\Debug\net6.0\9_Hypotenuse_Calcluator.dll
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\obj\Debug\net6.0\refint\9_Hypotenuse_Calcluator.dll
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\obj\Debug\net6.0\9_Hypotenuse_Calcluator.pdb
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\obj\Debug\net6.0\9_Hypotenuse_Calcluator.genruntimeconfig.cache
+D:\C# 101 Codes\9_Hypotenuse_Calcluator\9_Hypotenuse_Calcluator\obj\Debug\net6.0\ref\9_Hypotenuse_Calcluator.dll

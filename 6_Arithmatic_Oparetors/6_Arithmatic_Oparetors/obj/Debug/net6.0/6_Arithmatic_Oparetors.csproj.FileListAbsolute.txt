@@ -1,0 +1,15 @@
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\bin\Debug\net6.0\6_Arithmatic_Oparetors.exe
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\bin\Debug\net6.0\6_Arithmatic_Oparetors.deps.json
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\bin\Debug\net6.0\6_Arithmatic_Oparetors.runtimeconfig.json
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\bin\Debug\net6.0\6_Arithmatic_Oparetors.dll
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\bin\Debug\net6.0\6_Arithmatic_Oparetors.pdb
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\obj\Debug\net6.0\6_Arithmatic_Oparetors.csproj.AssemblyReference.cache
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\obj\Debug\net6.0\6_Arithmatic_Oparetors.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\obj\Debug\net6.0\6_Arithmatic_Oparetors.AssemblyInfoInputs.cache
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\obj\Debug\net6.0\6_Arithmatic_Oparetors.AssemblyInfo.cs
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\obj\Debug\net6.0\6_Arithmatic_Oparetors.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\obj\Debug\net6.0\6_Arithmatic_Oparetors.dll
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\obj\Debug\net6.0\refint\6_Arithmatic_Oparetors.dll
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\obj\Debug\net6.0\6_Arithmatic_Oparetors.pdb
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\obj\Debug\net6.0\6_Arithmatic_Oparetors.genruntimeconfig.cache
+D:\C# 101 Codes\6_Arithmatic_Oparetors\6_Arithmatic_Oparetors\obj\Debug\net6.0\ref\6_Arithmatic_Oparetors.dll

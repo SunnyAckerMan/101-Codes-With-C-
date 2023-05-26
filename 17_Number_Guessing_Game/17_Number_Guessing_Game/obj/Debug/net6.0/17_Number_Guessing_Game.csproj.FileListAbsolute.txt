@@ -1,0 +1,15 @@
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\bin\Debug\net6.0\17_Number_Guessing_Game.exe
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\bin\Debug\net6.0\17_Number_Guessing_Game.deps.json
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\bin\Debug\net6.0\17_Number_Guessing_Game.runtimeconfig.json
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\bin\Debug\net6.0\17_Number_Guessing_Game.dll
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\bin\Debug\net6.0\17_Number_Guessing_Game.pdb
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\obj\Debug\net6.0\17_Number_Guessing_Game.csproj.AssemblyReference.cache
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\obj\Debug\net6.0\17_Number_Guessing_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\obj\Debug\net6.0\17_Number_Guessing_Game.AssemblyInfoInputs.cache
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\obj\Debug\net6.0\17_Number_Guessing_Game.AssemblyInfo.cs
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\obj\Debug\net6.0\17_Number_Guessing_Game.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\obj\Debug\net6.0\17_Number_Guessing_Game.dll
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\obj\Debug\net6.0\refint\17_Number_Guessing_Game.dll
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\obj\Debug\net6.0\17_Number_Guessing_Game.pdb
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\obj\Debug\net6.0\17_Number_Guessing_Game.genruntimeconfig.cache
+D:\C# 101 Codes\17_Number_Guessing_Game\17_Number_Guessing_Game\obj\Debug\net6.0\ref\17_Number_Guessing_Game.dll

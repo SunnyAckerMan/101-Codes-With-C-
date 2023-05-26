@@ -1,0 +1,15 @@
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\bin\Debug\net6.0\41_Polymarphism.exe
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\bin\Debug\net6.0\41_Polymarphism.deps.json
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\bin\Debug\net6.0\41_Polymarphism.runtimeconfig.json
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\bin\Debug\net6.0\41_Polymarphism.dll
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\bin\Debug\net6.0\41_Polymarphism.pdb
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\obj\Debug\net6.0\41_Polymarphism.csproj.AssemblyReference.cache
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\obj\Debug\net6.0\41_Polymarphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\obj\Debug\net6.0\41_Polymarphism.AssemblyInfoInputs.cache
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\obj\Debug\net6.0\41_Polymarphism.AssemblyInfo.cs
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\obj\Debug\net6.0\41_Polymarphism.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\obj\Debug\net6.0\41_Polymarphism.dll
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\obj\Debug\net6.0\refint\41_Polymarphism.dll
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\obj\Debug\net6.0\41_Polymarphism.pdb
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\obj\Debug\net6.0\41_Polymarphism.genruntimeconfig.cache
+D:\C# 101 Codes\41_Polymarphism\41_Polymarphism\obj\Debug\net6.0\ref\41_Polymarphism.dll

@@ -1,0 +1,15 @@
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\obj\Debug\net6.0\50_All_Basics_in_One.csproj.AssemblyReference.cache
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\obj\Debug\net6.0\50_All_Basics_in_One.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\obj\Debug\net6.0\50_All_Basics_in_One.AssemblyInfoInputs.cache
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\obj\Debug\net6.0\50_All_Basics_in_One.AssemblyInfo.cs
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\obj\Debug\net6.0\50_All_Basics_in_One.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\bin\Debug\net6.0\50_All_Basics_in_One.exe
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\bin\Debug\net6.0\50_All_Basics_in_One.deps.json
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\bin\Debug\net6.0\50_All_Basics_in_One.runtimeconfig.json
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\bin\Debug\net6.0\50_All_Basics_in_One.dll
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\bin\Debug\net6.0\50_All_Basics_in_One.pdb
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\obj\Debug\net6.0\50_All_Basics_in_One.dll
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\obj\Debug\net6.0\refint\50_All_Basics_in_One.dll
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\obj\Debug\net6.0\50_All_Basics_in_One.pdb
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\obj\Debug\net6.0\50_All_Basics_in_One.genruntimeconfig.cache
+D:\C# 101 Codes\50_All_Basics_in_One\50_All_Basics_in_One\obj\Debug\net6.0\ref\50_All_Basics_in_One.dll
