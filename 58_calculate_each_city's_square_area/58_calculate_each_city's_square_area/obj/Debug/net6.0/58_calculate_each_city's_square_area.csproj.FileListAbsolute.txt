@@ -1,0 +1,15 @@
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\bin\Debug\net6.0\58_calculate_each_city's_square_area.exe
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\bin\Debug\net6.0\58_calculate_each_city's_square_area.deps.json
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\bin\Debug\net6.0\58_calculate_each_city's_square_area.runtimeconfig.json
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\bin\Debug\net6.0\58_calculate_each_city's_square_area.dll
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\bin\Debug\net6.0\58_calculate_each_city's_square_area.pdb
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\obj\Debug\net6.0\58_calculate_each_city's_square_area.csproj.AssemblyReference.cache
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\obj\Debug\net6.0\58_calculate_each_city's_square_area.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\obj\Debug\net6.0\58_calculate_each_city's_square_area.AssemblyInfoInputs.cache
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\obj\Debug\net6.0\58_calculate_each_city's_square_area.AssemblyInfo.cs
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\obj\Debug\net6.0\58_calculate_each_city's_square_area.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\obj\Debug\net6.0\58_calculate_each_city's_square_area.dll
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\obj\Debug\net6.0\refint\58_calculate_each_city's_square_area.dll
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\obj\Debug\net6.0\58_calculate_each_city's_square_area.pdb
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\obj\Debug\net6.0\58_calculate_each_city's_square_area.genruntimeconfig.cache
+D:\C# 101 Codes\58_calculate_each_city's_square_area\58_calculate_each_city's_square_area\obj\Debug\net6.0\ref\58_calculate_each_city's_square_area.dll
