@@ -1,0 +1,15 @@
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\bin\Debug\net6.0\54_Currency_Converter.exe
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\bin\Debug\net6.0\54_Currency_Converter.deps.json
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\bin\Debug\net6.0\54_Currency_Converter.runtimeconfig.json
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\bin\Debug\net6.0\54_Currency_Converter.dll
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\bin\Debug\net6.0\54_Currency_Converter.pdb
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\obj\Debug\net6.0\54_Currency_Converter.csproj.AssemblyReference.cache
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\obj\Debug\net6.0\54_Currency_Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\obj\Debug\net6.0\54_Currency_Converter.AssemblyInfoInputs.cache
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\obj\Debug\net6.0\54_Currency_Converter.AssemblyInfo.cs
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\obj\Debug\net6.0\54_Currency_Converter.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\obj\Debug\net6.0\54_Currency_Converter.dll
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\obj\Debug\net6.0\refint\54_Currency_Converter.dll
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\obj\Debug\net6.0\54_Currency_Converter.pdb
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\obj\Debug\net6.0\54_Currency_Converter.genruntimeconfig.cache
+D:\C# 101 Codes\54_Currency_Converter\54_Currency_Converter\obj\Debug\net6.0\ref\54_Currency_Converter.dll
