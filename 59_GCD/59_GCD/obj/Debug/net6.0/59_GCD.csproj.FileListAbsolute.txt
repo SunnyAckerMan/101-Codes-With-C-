@@ -1,0 +1,15 @@
+D:\C# 101 Codes\59_GCD\59_GCD\bin\Debug\net6.0\59_GCD.exe
+D:\C# 101 Codes\59_GCD\59_GCD\bin\Debug\net6.0\59_GCD.deps.json
+D:\C# 101 Codes\59_GCD\59_GCD\bin\Debug\net6.0\59_GCD.runtimeconfig.json
+D:\C# 101 Codes\59_GCD\59_GCD\bin\Debug\net6.0\59_GCD.dll
+D:\C# 101 Codes\59_GCD\59_GCD\bin\Debug\net6.0\59_GCD.pdb
+D:\C# 101 Codes\59_GCD\59_GCD\obj\Debug\net6.0\59_GCD.csproj.AssemblyReference.cache
+D:\C# 101 Codes\59_GCD\59_GCD\obj\Debug\net6.0\59_GCD.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\59_GCD\59_GCD\obj\Debug\net6.0\59_GCD.AssemblyInfoInputs.cache
+D:\C# 101 Codes\59_GCD\59_GCD\obj\Debug\net6.0\59_GCD.AssemblyInfo.cs
+D:\C# 101 Codes\59_GCD\59_GCD\obj\Debug\net6.0\59_GCD.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\59_GCD\59_GCD\obj\Debug\net6.0\59_GCD.dll
+D:\C# 101 Codes\59_GCD\59_GCD\obj\Debug\net6.0\refint\59_GCD.dll
+D:\C# 101 Codes\59_GCD\59_GCD\obj\Debug\net6.0\59_GCD.pdb
+D:\C# 101 Codes\59_GCD\59_GCD\obj\Debug\net6.0\59_GCD.genruntimeconfig.cache
+D:\C# 101 Codes\59_GCD\59_GCD\obj\Debug\net6.0\ref\59_GCD.dll
