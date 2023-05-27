@@ -1,0 +1,15 @@
+D:\C# 101 Codes\52_ATM\52_ATM\bin\Debug\net6.0\52_ATM.exe
+D:\C# 101 Codes\52_ATM\52_ATM\bin\Debug\net6.0\52_ATM.deps.json
+D:\C# 101 Codes\52_ATM\52_ATM\bin\Debug\net6.0\52_ATM.runtimeconfig.json
+D:\C# 101 Codes\52_ATM\52_ATM\bin\Debug\net6.0\52_ATM.dll
+D:\C# 101 Codes\52_ATM\52_ATM\bin\Debug\net6.0\52_ATM.pdb
+D:\C# 101 Codes\52_ATM\52_ATM\obj\Debug\net6.0\52_ATM.csproj.AssemblyReference.cache
+D:\C# 101 Codes\52_ATM\52_ATM\obj\Debug\net6.0\52_ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\52_ATM\52_ATM\obj\Debug\net6.0\52_ATM.AssemblyInfoInputs.cache
+D:\C# 101 Codes\52_ATM\52_ATM\obj\Debug\net6.0\52_ATM.AssemblyInfo.cs
+D:\C# 101 Codes\52_ATM\52_ATM\obj\Debug\net6.0\52_ATM.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\52_ATM\52_ATM\obj\Debug\net6.0\52_ATM.dll
+D:\C# 101 Codes\52_ATM\52_ATM\obj\Debug\net6.0\refint\52_ATM.dll
+D:\C# 101 Codes\52_ATM\52_ATM\obj\Debug\net6.0\52_ATM.pdb
+D:\C# 101 Codes\52_ATM\52_ATM\obj\Debug\net6.0\52_ATM.genruntimeconfig.cache
+D:\C# 101 Codes\52_ATM\52_ATM\obj\Debug\net6.0\ref\52_ATM.dll
