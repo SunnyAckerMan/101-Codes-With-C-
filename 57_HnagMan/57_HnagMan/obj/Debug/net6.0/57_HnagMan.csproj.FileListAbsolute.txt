@@ -1,0 +1,15 @@
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\bin\Debug\net6.0\57_HnagMan.exe
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\bin\Debug\net6.0\57_HnagMan.deps.json
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\bin\Debug\net6.0\57_HnagMan.runtimeconfig.json
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\bin\Debug\net6.0\57_HnagMan.dll
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\bin\Debug\net6.0\57_HnagMan.pdb
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\obj\Debug\net6.0\57_HnagMan.csproj.AssemblyReference.cache
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\obj\Debug\net6.0\57_HnagMan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\obj\Debug\net6.0\57_HnagMan.AssemblyInfoInputs.cache
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\obj\Debug\net6.0\57_HnagMan.AssemblyInfo.cs
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\obj\Debug\net6.0\57_HnagMan.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\obj\Debug\net6.0\57_HnagMan.dll
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\obj\Debug\net6.0\refint\57_HnagMan.dll
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\obj\Debug\net6.0\57_HnagMan.pdb
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\obj\Debug\net6.0\57_HnagMan.genruntimeconfig.cache
+D:\C# 101 Codes\57_HnagMan\57_HnagMan\obj\Debug\net6.0\ref\57_HnagMan.dll
