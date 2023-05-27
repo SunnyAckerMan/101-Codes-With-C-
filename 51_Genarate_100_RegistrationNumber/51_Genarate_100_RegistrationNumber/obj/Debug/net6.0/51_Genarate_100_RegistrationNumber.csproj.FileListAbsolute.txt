@@ -1,0 +1,15 @@
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\bin\Debug\net6.0\51_Genarate_100_RegistrationNumber.exe
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\bin\Debug\net6.0\51_Genarate_100_RegistrationNumber.deps.json
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\bin\Debug\net6.0\51_Genarate_100_RegistrationNumber.runtimeconfig.json
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\bin\Debug\net6.0\51_Genarate_100_RegistrationNumber.dll
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\bin\Debug\net6.0\51_Genarate_100_RegistrationNumber.pdb
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\obj\Debug\net6.0\51_Genarate_100_RegistrationNumber.csproj.AssemblyReference.cache
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\obj\Debug\net6.0\51_Genarate_100_RegistrationNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\obj\Debug\net6.0\51_Genarate_100_RegistrationNumber.AssemblyInfoInputs.cache
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\obj\Debug\net6.0\51_Genarate_100_RegistrationNumber.AssemblyInfo.cs
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\obj\Debug\net6.0\51_Genarate_100_RegistrationNumber.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\obj\Debug\net6.0\51_Genarate_100_RegistrationNumber.dll
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\obj\Debug\net6.0\refint\51_Genarate_100_RegistrationNumber.dll
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\obj\Debug\net6.0\51_Genarate_100_RegistrationNumber.pdb
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\obj\Debug\net6.0\51_Genarate_100_RegistrationNumber.genruntimeconfig.cache
+D:\C# 101 Codes\51_Genarate_100_RegistrationNumber\51_Genarate_100_RegistrationNumber\obj\Debug\net6.0\ref\51_Genarate_100_RegistrationNumber.dll
