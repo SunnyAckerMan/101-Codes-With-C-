@@ -1,0 +1,15 @@
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\bin\Debug\net6.0\55_StopWatch.exe
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\bin\Debug\net6.0\55_StopWatch.deps.json
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\bin\Debug\net6.0\55_StopWatch.runtimeconfig.json
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\bin\Debug\net6.0\55_StopWatch.dll
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\bin\Debug\net6.0\55_StopWatch.pdb
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\obj\Debug\net6.0\55_StopWatch.csproj.AssemblyReference.cache
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\obj\Debug\net6.0\55_StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\obj\Debug\net6.0\55_StopWatch.AssemblyInfoInputs.cache
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\obj\Debug\net6.0\55_StopWatch.AssemblyInfo.cs
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\obj\Debug\net6.0\55_StopWatch.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\obj\Debug\net6.0\55_StopWatch.dll
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\obj\Debug\net6.0\refint\55_StopWatch.dll
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\obj\Debug\net6.0\55_StopWatch.pdb
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\obj\Debug\net6.0\55_StopWatch.genruntimeconfig.cache
+D:\C# 101 Codes\55_StopWatch\55_StopWatch\obj\Debug\net6.0\ref\55_StopWatch.dll
