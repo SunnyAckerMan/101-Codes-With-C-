@@ -1,0 +1,15 @@
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\bin\Debug\net6.0\52_IP_Address.exe
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\bin\Debug\net6.0\52_IP_Address.deps.json
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\bin\Debug\net6.0\52_IP_Address.runtimeconfig.json
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\bin\Debug\net6.0\52_IP_Address.dll
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\bin\Debug\net6.0\52_IP_Address.pdb
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\obj\Debug\net6.0\52_IP_Address.csproj.AssemblyReference.cache
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\obj\Debug\net6.0\52_IP_Address.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\obj\Debug\net6.0\52_IP_Address.AssemblyInfoInputs.cache
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\obj\Debug\net6.0\52_IP_Address.AssemblyInfo.cs
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\obj\Debug\net6.0\52_IP_Address.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\obj\Debug\net6.0\52_IP_Address.dll
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\obj\Debug\net6.0\refint\52_IP_Address.dll
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\obj\Debug\net6.0\52_IP_Address.pdb
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\obj\Debug\net6.0\52_IP_Address.genruntimeconfig.cache
+D:\C# 101 Codes\52_IP_Address\52_IP_Address\obj\Debug\net6.0\ref\52_IP_Address.dll
