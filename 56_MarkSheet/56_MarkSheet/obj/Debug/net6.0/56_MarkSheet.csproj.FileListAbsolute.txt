@@ -1,0 +1,15 @@
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\bin\Debug\net6.0\56_MarkSheet.exe
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\bin\Debug\net6.0\56_MarkSheet.deps.json
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\bin\Debug\net6.0\56_MarkSheet.runtimeconfig.json
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\bin\Debug\net6.0\56_MarkSheet.dll
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\bin\Debug\net6.0\56_MarkSheet.pdb
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\obj\Debug\net6.0\56_MarkSheet.csproj.AssemblyReference.cache
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\obj\Debug\net6.0\56_MarkSheet.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\obj\Debug\net6.0\56_MarkSheet.AssemblyInfoInputs.cache
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\obj\Debug\net6.0\56_MarkSheet.AssemblyInfo.cs
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\obj\Debug\net6.0\56_MarkSheet.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\obj\Debug\net6.0\56_MarkSheet.dll
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\obj\Debug\net6.0\refint\56_MarkSheet.dll
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\obj\Debug\net6.0\56_MarkSheet.pdb
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\obj\Debug\net6.0\56_MarkSheet.genruntimeconfig.cache
+D:\C# 101 Codes\56_MarkSheet\56_MarkSheet\obj\Debug\net6.0\ref\56_MarkSheet.dll
