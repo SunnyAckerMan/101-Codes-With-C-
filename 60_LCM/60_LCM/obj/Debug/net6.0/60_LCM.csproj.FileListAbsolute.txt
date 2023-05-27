@@ -1,0 +1,15 @@
+D:\C# 101 Codes\60_LCM\60_LCM\bin\Debug\net6.0\60_LCM.exe
+D:\C# 101 Codes\60_LCM\60_LCM\bin\Debug\net6.0\60_LCM.deps.json
+D:\C# 101 Codes\60_LCM\60_LCM\bin\Debug\net6.0\60_LCM.runtimeconfig.json
+D:\C# 101 Codes\60_LCM\60_LCM\bin\Debug\net6.0\60_LCM.dll
+D:\C# 101 Codes\60_LCM\60_LCM\bin\Debug\net6.0\60_LCM.pdb
+D:\C# 101 Codes\60_LCM\60_LCM\obj\Debug\net6.0\60_LCM.csproj.AssemblyReference.cache
+D:\C# 101 Codes\60_LCM\60_LCM\obj\Debug\net6.0\60_LCM.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\60_LCM\60_LCM\obj\Debug\net6.0\60_LCM.AssemblyInfoInputs.cache
+D:\C# 101 Codes\60_LCM\60_LCM\obj\Debug\net6.0\60_LCM.AssemblyInfo.cs
+D:\C# 101 Codes\60_LCM\60_LCM\obj\Debug\net6.0\60_LCM.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\60_LCM\60_LCM\obj\Debug\net6.0\60_LCM.dll
+D:\C# 101 Codes\60_LCM\60_LCM\obj\Debug\net6.0\refint\60_LCM.dll
+D:\C# 101 Codes\60_LCM\60_LCM\obj\Debug\net6.0\60_LCM.pdb
+D:\C# 101 Codes\60_LCM\60_LCM\obj\Debug\net6.0\60_LCM.genruntimeconfig.cache
+D:\C# 101 Codes\60_LCM\60_LCM\obj\Debug\net6.0\ref\60_LCM.dll
