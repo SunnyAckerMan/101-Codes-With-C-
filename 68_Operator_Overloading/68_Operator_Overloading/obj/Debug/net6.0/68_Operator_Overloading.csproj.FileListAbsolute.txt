@@ -1,0 +1,15 @@
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\bin\Debug\net6.0\68_Operator_Overloading.exe
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\bin\Debug\net6.0\68_Operator_Overloading.deps.json
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\bin\Debug\net6.0\68_Operator_Overloading.runtimeconfig.json
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\bin\Debug\net6.0\68_Operator_Overloading.dll
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\bin\Debug\net6.0\68_Operator_Overloading.pdb
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\obj\Debug\net6.0\68_Operator_Overloading.csproj.AssemblyReference.cache
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\obj\Debug\net6.0\68_Operator_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\obj\Debug\net6.0\68_Operator_Overloading.AssemblyInfoInputs.cache
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\obj\Debug\net6.0\68_Operator_Overloading.AssemblyInfo.cs
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\obj\Debug\net6.0\68_Operator_Overloading.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\obj\Debug\net6.0\68_Operator_Overloading.dll
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\obj\Debug\net6.0\refint\68_Operator_Overloading.dll
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\obj\Debug\net6.0\68_Operator_Overloading.pdb
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\obj\Debug\net6.0\68_Operator_Overloading.genruntimeconfig.cache
+D:\C# 101 Codes\68_Operator_Overloading\68_Operator_Overloading\obj\Debug\net6.0\ref\68_Operator_Overloading.dll
