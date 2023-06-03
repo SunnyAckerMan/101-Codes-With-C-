@@ -1,0 +1,15 @@
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\bin\Debug\net6.0\69_Passing_ObjectsTo_Methods.exe
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\bin\Debug\net6.0\69_Passing_ObjectsTo_Methods.deps.json
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\bin\Debug\net6.0\69_Passing_ObjectsTo_Methods.runtimeconfig.json
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\bin\Debug\net6.0\69_Passing_ObjectsTo_Methods.dll
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\bin\Debug\net6.0\69_Passing_ObjectsTo_Methods.pdb
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\obj\Debug\net6.0\69_Passing_ObjectsTo_Methods.csproj.AssemblyReference.cache
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\obj\Debug\net6.0\69_Passing_ObjectsTo_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\obj\Debug\net6.0\69_Passing_ObjectsTo_Methods.AssemblyInfoInputs.cache
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\obj\Debug\net6.0\69_Passing_ObjectsTo_Methods.AssemblyInfo.cs
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\obj\Debug\net6.0\69_Passing_ObjectsTo_Methods.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\obj\Debug\net6.0\69_Passing_ObjectsTo_Methods.dll
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\obj\Debug\net6.0\refint\69_Passing_ObjectsTo_Methods.dll
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\obj\Debug\net6.0\69_Passing_ObjectsTo_Methods.pdb
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\obj\Debug\net6.0\69_Passing_ObjectsTo_Methods.genruntimeconfig.cache
+D:\C# 101 Codes\69_Passing_ObjectsTo_Methods\69_Passing_ObjectsTo_Methods\obj\Debug\net6.0\ref\69_Passing_ObjectsTo_Methods.dll
