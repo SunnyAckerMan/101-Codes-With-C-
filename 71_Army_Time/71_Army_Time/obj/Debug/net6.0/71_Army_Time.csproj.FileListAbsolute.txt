@@ -1,0 +1,15 @@
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\bin\Debug\net6.0\71_Army_Time.exe
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\bin\Debug\net6.0\71_Army_Time.deps.json
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\bin\Debug\net6.0\71_Army_Time.runtimeconfig.json
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\bin\Debug\net6.0\71_Army_Time.dll
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\bin\Debug\net6.0\71_Army_Time.pdb
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\obj\Debug\net6.0\71_Army_Time.csproj.AssemblyReference.cache
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\obj\Debug\net6.0\71_Army_Time.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\obj\Debug\net6.0\71_Army_Time.AssemblyInfoInputs.cache
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\obj\Debug\net6.0\71_Army_Time.AssemblyInfo.cs
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\obj\Debug\net6.0\71_Army_Time.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\obj\Debug\net6.0\71_Army_Time.dll
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\obj\Debug\net6.0\refint\71_Army_Time.dll
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\obj\Debug\net6.0\71_Army_Time.pdb
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\obj\Debug\net6.0\71_Army_Time.genruntimeconfig.cache
+D:\C# 101 Codes\71_Army_Time\71_Army_Time\obj\Debug\net6.0\ref\71_Army_Time.dll
