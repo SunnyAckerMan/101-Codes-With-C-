@@ -1,0 +1,15 @@
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\obj\Debug\net6.0\72_ValueType_ReferenceType.csproj.AssemblyReference.cache
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\obj\Debug\net6.0\72_ValueType_ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\obj\Debug\net6.0\72_ValueType_ReferenceType.AssemblyInfoInputs.cache
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\obj\Debug\net6.0\72_ValueType_ReferenceType.AssemblyInfo.cs
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\obj\Debug\net6.0\72_ValueType_ReferenceType.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\bin\Debug\net6.0\72_ValueType_ReferenceType.exe
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\bin\Debug\net6.0\72_ValueType_ReferenceType.deps.json
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\bin\Debug\net6.0\72_ValueType_ReferenceType.runtimeconfig.json
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\bin\Debug\net6.0\72_ValueType_ReferenceType.dll
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\bin\Debug\net6.0\72_ValueType_ReferenceType.pdb
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\obj\Debug\net6.0\72_ValueType_ReferenceType.dll
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\obj\Debug\net6.0\refint\72_ValueType_ReferenceType.dll
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\obj\Debug\net6.0\72_ValueType_ReferenceType.pdb
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\obj\Debug\net6.0\72_ValueType_ReferenceType.genruntimeconfig.cache
+D:\C# 101 Codes\72_ValueType_ReferenceType\72_ValueType_ReferenceType\obj\Debug\net6.0\ref\72_ValueType_ReferenceType.dll
