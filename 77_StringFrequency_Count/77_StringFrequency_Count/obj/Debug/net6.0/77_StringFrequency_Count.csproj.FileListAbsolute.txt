@@ -1,0 +1,15 @@
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\bin\Debug\net6.0\77_StringFrequency_Count.exe
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\bin\Debug\net6.0\77_StringFrequency_Count.deps.json
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\bin\Debug\net6.0\77_StringFrequency_Count.runtimeconfig.json
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\bin\Debug\net6.0\77_StringFrequency_Count.dll
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\bin\Debug\net6.0\77_StringFrequency_Count.pdb
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\obj\Debug\net6.0\77_StringFrequency_Count.csproj.AssemblyReference.cache
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\obj\Debug\net6.0\77_StringFrequency_Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\obj\Debug\net6.0\77_StringFrequency_Count.AssemblyInfoInputs.cache
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\obj\Debug\net6.0\77_StringFrequency_Count.AssemblyInfo.cs
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\obj\Debug\net6.0\77_StringFrequency_Count.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\obj\Debug\net6.0\77_StringFrequency_Count.dll
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\obj\Debug\net6.0\refint\77_StringFrequency_Count.dll
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\obj\Debug\net6.0\77_StringFrequency_Count.pdb
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\obj\Debug\net6.0\77_StringFrequency_Count.genruntimeconfig.cache
+D:\C# 101 Codes\77_StringFrequency_Count\77_StringFrequency_Count\obj\Debug\net6.0\ref\77_StringFrequency_Count.dll
