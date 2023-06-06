@@ -1,0 +1,15 @@
+D:\C# 101 Codes\74_Collections\74_Collections\bin\Debug\net6.0\74_Collections.exe
+D:\C# 101 Codes\74_Collections\74_Collections\bin\Debug\net6.0\74_Collections.deps.json
+D:\C# 101 Codes\74_Collections\74_Collections\bin\Debug\net6.0\74_Collections.runtimeconfig.json
+D:\C# 101 Codes\74_Collections\74_Collections\bin\Debug\net6.0\74_Collections.dll
+D:\C# 101 Codes\74_Collections\74_Collections\bin\Debug\net6.0\74_Collections.pdb
+D:\C# 101 Codes\74_Collections\74_Collections\obj\Debug\net6.0\74_Collections.csproj.AssemblyReference.cache
+D:\C# 101 Codes\74_Collections\74_Collections\obj\Debug\net6.0\74_Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\74_Collections\74_Collections\obj\Debug\net6.0\74_Collections.AssemblyInfoInputs.cache
+D:\C# 101 Codes\74_Collections\74_Collections\obj\Debug\net6.0\74_Collections.AssemblyInfo.cs
+D:\C# 101 Codes\74_Collections\74_Collections\obj\Debug\net6.0\74_Collections.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\74_Collections\74_Collections\obj\Debug\net6.0\74_Collections.dll
+D:\C# 101 Codes\74_Collections\74_Collections\obj\Debug\net6.0\refint\74_Collections.dll
+D:\C# 101 Codes\74_Collections\74_Collections\obj\Debug\net6.0\74_Collections.pdb
+D:\C# 101 Codes\74_Collections\74_Collections\obj\Debug\net6.0\74_Collections.genruntimeconfig.cache
+D:\C# 101 Codes\74_Collections\74_Collections\obj\Debug\net6.0\ref\74_Collections.dll
