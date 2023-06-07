@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "79_maximum_and_minimum_elements_array/1.0.0": {
+        "runtime": {
+          "79_maximum_and_minimum_elements_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "79_maximum_and_minimum_elements_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

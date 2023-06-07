@@ -1,0 +1,15 @@
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\bin\Debug\net6.0\79_maximum_and_minimum_elements_array.exe
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\bin\Debug\net6.0\79_maximum_and_minimum_elements_array.deps.json
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\bin\Debug\net6.0\79_maximum_and_minimum_elements_array.runtimeconfig.json
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\bin\Debug\net6.0\79_maximum_and_minimum_elements_array.dll
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\bin\Debug\net6.0\79_maximum_and_minimum_elements_array.pdb
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\obj\Debug\net6.0\79_maximum_and_minimum_elements_array.csproj.AssemblyReference.cache
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\obj\Debug\net6.0\79_maximum_and_minimum_elements_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\obj\Debug\net6.0\79_maximum_and_minimum_elements_array.AssemblyInfoInputs.cache
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\obj\Debug\net6.0\79_maximum_and_minimum_elements_array.AssemblyInfo.cs
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\obj\Debug\net6.0\79_maximum_and_minimum_elements_array.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\obj\Debug\net6.0\79_maximum_and_minimum_elements_array.dll
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\obj\Debug\net6.0\refint\79_maximum_and_minimum_elements_array.dll
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\obj\Debug\net6.0\79_maximum_and_minimum_elements_array.pdb
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\obj\Debug\net6.0\79_maximum_and_minimum_elements_array.genruntimeconfig.cache
+D:\C# 101 Codes\79_maximum_and_minimum_elements_array\79_maximum_and_minimum_elements_array\obj\Debug\net6.0\ref\79_maximum_and_minimum_elements_array.dll
