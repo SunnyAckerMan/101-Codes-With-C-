@@ -1,0 +1,15 @@
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\bin\Debug\net6.0\78_StoreElementsInArray&Print.exe
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\bin\Debug\net6.0\78_StoreElementsInArray&Print.deps.json
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\bin\Debug\net6.0\78_StoreElementsInArray&Print.runtimeconfig.json
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\bin\Debug\net6.0\78_StoreElementsInArray&Print.dll
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\bin\Debug\net6.0\78_StoreElementsInArray&Print.pdb
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\obj\Debug\net6.0\78_StoreElementsInArray&Print.csproj.AssemblyReference.cache
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\obj\Debug\net6.0\78_StoreElementsInArray&Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\obj\Debug\net6.0\78_StoreElementsInArray&Print.AssemblyInfoInputs.cache
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\obj\Debug\net6.0\78_StoreElementsInArray&Print.AssemblyInfo.cs
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\obj\Debug\net6.0\78_StoreElementsInArray&Print.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\obj\Debug\net6.0\78_StoreElementsInArray&Print.dll
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\obj\Debug\net6.0\refint\78_StoreElementsInArray&Print.dll
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\obj\Debug\net6.0\78_StoreElementsInArray&Print.pdb
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\obj\Debug\net6.0\78_StoreElementsInArray&Print.genruntimeconfig.cache
+D:\C# 101 Codes\78_StoreElementsInArray&Print\78_StoreElementsInArray&Print\obj\Debug\net6.0\ref\78_StoreElementsInArray&Print.dll
