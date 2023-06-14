@@ -1,0 +1,15 @@
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\bin\Debug\net6.0\80_Infinity_Loop.exe
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\bin\Debug\net6.0\80_Infinity_Loop.deps.json
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\bin\Debug\net6.0\80_Infinity_Loop.runtimeconfig.json
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\bin\Debug\net6.0\80_Infinity_Loop.dll
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\bin\Debug\net6.0\80_Infinity_Loop.pdb
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\obj\Debug\net6.0\80_Infinity_Loop.csproj.AssemblyReference.cache
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\obj\Debug\net6.0\80_Infinity_Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\obj\Debug\net6.0\80_Infinity_Loop.AssemblyInfoInputs.cache
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\obj\Debug\net6.0\80_Infinity_Loop.AssemblyInfo.cs
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\obj\Debug\net6.0\80_Infinity_Loop.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\obj\Debug\net6.0\80_Infinity_Loop.dll
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\obj\Debug\net6.0\refint\80_Infinity_Loop.dll
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\obj\Debug\net6.0\80_Infinity_Loop.pdb
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\obj\Debug\net6.0\80_Infinity_Loop.genruntimeconfig.cache
+D:\C# 101 Codes\80_Infinity_Loop\80_Infinity_Loop\obj\Debug\net6.0\ref\80_Infinity_Loop.dll
