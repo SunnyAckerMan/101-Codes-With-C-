@@ -1,0 +1,15 @@
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\bin\Debug\net6.0\83_Linear_Search.exe
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\bin\Debug\net6.0\83_Linear_Search.deps.json
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\bin\Debug\net6.0\83_Linear_Search.runtimeconfig.json
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\bin\Debug\net6.0\83_Linear_Search.dll
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\bin\Debug\net6.0\83_Linear_Search.pdb
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\obj\Debug\net6.0\83_Linear_Search.csproj.AssemblyReference.cache
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\obj\Debug\net6.0\83_Linear_Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\obj\Debug\net6.0\83_Linear_Search.AssemblyInfoInputs.cache
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\obj\Debug\net6.0\83_Linear_Search.AssemblyInfo.cs
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\obj\Debug\net6.0\83_Linear_Search.csproj.CoreCompileInputs.cache
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\obj\Debug\net6.0\83_Linear_Search.dll
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\obj\Debug\net6.0\refint\83_Linear_Search.dll
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\obj\Debug\net6.0\83_Linear_Search.pdb
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\obj\Debug\net6.0\83_Linear_Search.genruntimeconfig.cache
+D:\C# 101 Codes\83_Linear_Search\83_Linear_Search\obj\Debug\net6.0\ref\83_Linear_Search.dll
